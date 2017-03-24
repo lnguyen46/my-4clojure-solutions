@@ -5,5 +5,5 @@ By solving small problems in broad range of topics, I have a chance to know bett
 The interface and test cases are easy to use, I use Emacs a lot so the combination of [4clojure-mode](https://github.com/yveszoundi/4clojure-mode) + `cider-repl`
 always make me smile.
 
-This repo is still work-in-progress.
+This repo is still work-in-progress because exploring Clojure is so much fun.
 
